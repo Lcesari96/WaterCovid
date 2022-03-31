@@ -28,5 +28,5 @@ In conclusion, I describe a **real case scenario** in which my machine learning 
 
 The `README.md` files that are present in each folder explain briefly what each folder contains.
 
-The core of the project is the [scripts folder](https://gitlab.com/Lcesari/90477-project/-/tree/main/scripts).
+The core of the project is the [scripts folder](https://github.com/Lcesari96/WaterCovid/tree/master/scripts).
 
