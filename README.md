@@ -30,6 +30,8 @@ The `README.md` files that are present in each folder explain briefly what each 
 
 The core of the project is the [scripts folder](https://github.com/Lcesari96/WaterCovid/tree/master/scripts).
 
-The interactive features of the notebook will not work in GitHub repositories, so, for pretty view, I suggest to copy the URLs
+The interactive features of the notebooks will not works in GitHub repositories, so, for pretty view, I suggest to copy the URLs
 of the notebooks in [nbviewer](https://nbviewer.org/).
+
+Within each folder, in the `README.md`, is already present the direct `nbviwer link` with the applyed notebook. 
 

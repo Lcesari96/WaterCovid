@@ -12,3 +12,8 @@ The **development of the analysis** is presented here in three Python `notebooks
 
 - `Main` contains the **core of the project** in which are described and applyed all the complex manipulations, techniques and interpretations.
 
+[nbviwer Setup](#https://github.com/Lcesari96/WaterCovid/blob/master/scripts/Setup.ipynb)
+
+[nbviwer Import](#https://nbviewer.org/github/Lcesari96/WaterCovid/blob/master/scripts/Import.ipynb)
+
+[nbviewer Main](#https://nbviewer.org/github/Lcesari96/WaterCovid/blob/b7a6fa9aed5691c0dfb17f8bc00c1c11e3ffecf5/scripts/Main.ipynb#end)
